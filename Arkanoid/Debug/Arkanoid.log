@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  Ball.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\circle.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Brick.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\rectangle.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Circle.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\circle.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Draw.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\engine.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Engine.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\engine.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\engine.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PlayerRectangle.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\engine.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ProcessInputs.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\engine.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Rectangle.cpp
+x:\documents\visual studio stuff\projects\arkanoid\arkanoid\arkanoid\rectangle.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
